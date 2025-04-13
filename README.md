@@ -2,11 +2,12 @@
 by Ifeanyi Omeata
 
 <details>
+  <summary>1 - Linux Installation </summary>
 
-  <summary>1 - Linux Basics I </summary>
+  ###
 
-  <a href="" target="_blank"><img src="https://github.com/user-attachments/assets/e21da142-b159-47a9-a140-95515a25a6fb" width="720" height="400" /></a>
-    
+  <a href="" target="_blank"><img src="https://github.com/user-attachments/assets/9b21d709-8705-42ee-bec8-38a7bd09f372" width="720" height="400" /></a>
+  
   ### 1. Popular Distributions
 
   - [ ] [Linux DistroWatch](https://distrowatch.com/)
@@ -50,3 +51,23 @@ by Ifeanyi Omeata
   ```
 
 </details>
+
+<details>
+  <summary>2 - Linux Basics I </summary>
+
+  ###
+
+  <a href="" target="_blank"><img src="https://github.com/user-attachments/assets/f7d3255c-ce97-4958-9314-408f502bf8ef" width="720" height="400" /></a>
+
+  ### 1. Popular Distributions
+
+  - [ ] [Linux DistroWatch](https://distrowatch.com/)
+
+
+</details>
+
+
+
+
+
+
