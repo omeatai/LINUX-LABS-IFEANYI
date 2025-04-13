@@ -2,14 +2,15 @@
 by Ifeanyi Omeata
 
 <details>
-  <summary>1 - Linux Basics - </summary>
 
+  <summary>1 - Linux Basics I </summary>
   ###
 
   <a href="" target="_blank"><img src="https://github.com/user-attachments/assets/f00b1657-9f37-42dd-a8ac-c46eb9d0078f" width="720" height="400" /></a>
 
-  ### 1. Print String
-  - [ ] Print "Hello World"
+  - [ ] [Linux Distro](https://distrowatch.com/)
+  
+    ### Linux Distro
   ```py
   print("Hello World!")
   print("Python is easy!")
