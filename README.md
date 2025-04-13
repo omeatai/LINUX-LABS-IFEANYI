@@ -22,6 +22,11 @@ by Ifeanyi Omeata
   - [ ] [Linux Mint](https://distrowatch.com/table.php?distribution=mint)
   - [ ] [Pop!_OS](https://distrowatch.com/table.php?distribution=popos)
   - [ ] [Kali Linux](https://distrowatch.com/table.php?distribution=kali)
+  #### Arch-Based
+  - [ ] [Arch Linux](https://distrowatch.com/table.php?distribution=arch)
+  - [ ] [Manjaro Linux](https://distrowatch.com/table.php?distribution=manjaro)
+  - [ ] [CachyOS](https://distrowatch.com/table.php?distribution=cachyos)
+  - [ ] [EndeavourOS](https://distrowatch.com/table.php?distribution=endeavour)
   
   ### 1. Linux Distro
   ```py
