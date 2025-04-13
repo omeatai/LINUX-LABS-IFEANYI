@@ -28,7 +28,7 @@ by Ifeanyi Omeata
   - [ ] [CachyOS](https://distrowatch.com/table.php?distribution=cachyos)
   - [ ] [EndeavourOS](https://distrowatch.com/table.php?distribution=endeavour)
   
-  ### 2. Install Linux on Windows with WSL
+  ### 2. Install Linux (Ubuntu) on Windows with WSL
   - [ ] Open Windows Terminal as Administrator
   ```
   wsl --install
@@ -39,20 +39,14 @@ by Ifeanyi Omeata
   wsl -l -o
   ```
 
-  ### 2. Use Comments
-  - [ ] Enter Comments above statements
-  ```py
-  """This is a multi-line comment
-  Author: Ifeanyi omeata
-  Date: 2025
-  """
-  # This is a sample Python script.
-  print("Hello World!")
-  print("Python is easy!")
-  
-  # Press the green button in the gutter to run the script.
-  if __name__ == '__main__':
-      print('Completed!')
+  ### 4. To Install a distribution: debian to WSL
+  ```
+  wsl --install -d Debian
+  ```
+
+  ### 5. To UnInstall a Distro in WSL
+  ```
+  wsl --unregister Debian
   ```
 
 </details>
