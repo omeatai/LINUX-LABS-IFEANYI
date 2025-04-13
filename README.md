@@ -9,7 +9,7 @@ by Ifeanyi Omeata
 
   <a href="" target="_blank"><img src="https://github.com/user-attachments/assets/f00b1657-9f37-42dd-a8ac-c46eb9d0078f" width="720" height="400" /></a>
 
-  - [ ] [Linux Distro](https://distrowatch.com/)
+  - [ ] [Linux DistroWatch](https://distrowatch.com/)
   
   ### 1. Linux Distro
   ```py
