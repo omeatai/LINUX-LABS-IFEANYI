@@ -28,13 +28,15 @@ by Ifeanyi Omeata
   - [ ] [CachyOS](https://distrowatch.com/table.php?distribution=cachyos)
   - [ ] [EndeavourOS](https://distrowatch.com/table.php?distribution=endeavour)
   
-  ### 1. Linux Distro
-  ```py
-  print("Hello World!")
-  print("Python is easy!")
+  ### 2. Install Linux on Windows with WSL
+  - [ ] Open Windows Terminal as Administrator
+  ```
+  wsl --install
+  ```
 
-  if __name__ == '__main__':
-      print('Completed!')
+  ### 3. Show all available Linux Distributions we can download to WSL
+  ```
+  wsl -l -o
   ```
 
   ### 2. Use Comments
