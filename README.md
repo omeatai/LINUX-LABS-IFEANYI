@@ -5,7 +5,7 @@ by Ifeanyi Omeata
 
   <summary>1 - Linux Basics I </summary>
 
-  <a href="" target="_blank"><img src="https://github.com/user-attachments/assets/f00b1657-9f37-42dd-a8ac-c46eb9d0078f" width="720" height="400" /></a>
+  <a href="" target="_blank"><img src="https://github.com/user-attachments/assets/e21da142-b159-47a9-a140-95515a25a6fb" width="720" height="400" /></a>
     
   ### 1. Popular Distributions
 
