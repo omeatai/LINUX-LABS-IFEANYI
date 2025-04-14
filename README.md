@@ -53,15 +53,18 @@ by Ifeanyi Omeata
 </details>
 
 <details>
-  <summary>2 - Linux Basics I </summary>
+  <summary>2 - Linux Directory Structure </summary>
 
   ###
 
-  <a href="" target="_blank"><img src="https://github.com/user-attachments/assets/f7d3255c-ce97-4958-9314-408f502bf8ef" width="720" height="400" /></a>
-
-  ### 1. Popular Distributions
-
-  - [ ] [Linux DistroWatch](https://distrowatch.com/)
+  - [ ] / = The directory called "root." It is the starting point for the file system hierarchy. Note that this is not related to the root, or superuser, account.
+  - [ ] /bin = Binaries and other executable programs.
+  - [ ] /etc = System configuration files.
+  - [ ] /home = Home directories.
+  - [ ] /opt = Optional or third party software.
+  - [ ] /tmp = Temporary space, typically cleared on reboot.
+  - [ ] /usr = User related programs.
+  - [ ] /var = Variable data, most notably log files.
 
 
 </details>
